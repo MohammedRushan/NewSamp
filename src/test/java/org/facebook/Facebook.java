@@ -9,5 +9,11 @@ public class Facebook extends BaseClass {
 		enterText(findElementId("email"), "rushan");
 		enterText(findElementId("pass"), "rushan");
 
+		
+		System.out.println("Rushan 1");
+		System.out.println("Rushan 1");
+		System.out.println("Rushan 1");
+		System.out.println("Rushan 1");
+		
 	}
 }
