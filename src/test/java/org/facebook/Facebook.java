@@ -8,6 +8,15 @@ public class Facebook extends BaseClass {
 		launchUrl("www.facebook.com");
 		enterText(findElementId("email"), "rushan");
 		enterText(findElementId("pass"), "rushan");
+		System.out.println("Rushan 1");
+		System.out.println("Rushan 1");
+		System.out.println("Rushan 1");
+		System.out.println("Rushan 1");
+		System.out.println("Rushan 2");
+		System.out.println("Rushan 2");
+		System.out.println("Rushan 2");
+		System.out.println("Rushan 2");
+		System.out.println("Rushan 2");
 		
 		System.out.println("Rushan 3");
 		System.out.println("Rushan 3");
@@ -15,5 +24,8 @@ public class Facebook extends BaseClass {
 		System.out.println("Rushan 3");
 		System.out.println("Rushan 3");
 
+		
+		
+		
 	}
 }
